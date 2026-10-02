@@ -49,7 +49,7 @@
 ### 🚀 Key Projects
 
 #### 1. [견생보감 - PortOne 결제 연동 이커머스](https://github.com/Team6-Cloud-Architecture-Payment-System/payment-system)
-> **기간**: 2025.03 (팀 6명) | **역할**: 인증·회원 도메인 설계, 동시성 제어, 멤버십/포인트 정합성  
+> **기간**: 2026.03 (팀 6명) | **역할**: 인증·회원 도메인 설계, 동시성 제어, 멤버십/포인트 정합성  
 > **Tech**: `Java 17`, `Spring Boot`, `Spring Security`, `JWT`, `MySQL`, `AWS`, `PortOne SDK`
 
 - **비관적 락(Pessimistic Lock) 기반 동시성 제어 및 멱등성 보장**
@@ -63,7 +63,7 @@
 ---
 
 #### 2. [겟츄 (Getchu) - 위치 인증 기반 지역 중고거래 플랫폼](https://github.com/Team-5th-Chat-prj/Team-5th)
-> **기간**: 2025.04 (팀 4명) | **역할**: 백엔드 아키텍처 설계, 상품 CRUD, 쿼리 최적화, 캐싱 전략 수립  
+> **기간**: 2026.04 (팀 4명) | **역할**: 백엔드 아키텍처 설계, 상품 CRUD, 쿼리 최적화, 캐싱 전략 수립  
 > **Tech**: `Java 17`, `Spring Boot 3.2`, `Spring Data JPA`, `QueryDSL 5`, `MySQL 8.4`, `Redis 7.4`, `Docker`
 
 - **N+1 쿼리 해결 및 응답 속도 85% 대폭 개선**
@@ -78,7 +78,7 @@
 ---
 
 #### 3. [ClueRoom - AI 기반 추리 게임 서비스](https://github.com/Final-Project-sixteam-company/project-fe)
-> **기간**: 2025.05 ~ 2025.06 (팀 4명) | **역할**: API 아키텍처 조율 및 백엔드 통신 최적화, 예외 복구 구조 설계  
+> **기간**: 2026.05 ~ 2026.06 (팀 4명) | **역할**: API 아키텍처 조율 및 백엔드 통신 최적화, 예외 복구 구조 설계  
 > **Tech**: `REST API`, `Firebase Messaging`, `Auth & Session Handling`
 
 - **JWT 인증 예외(401) 및 세션 데드엔드(409) 2단계 복구 메커니즘 구축**
